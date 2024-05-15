@@ -8,7 +8,7 @@ compatibility_date = "2023-05-26"
 pattern = "Indonesia.vnm.my.id"
 custom_domain = true
 [[routes]]
-pattern = "shopee.co.id.v19.tan.my.id"
+pattern = "shopee.co.id.Indonesia.vnm.my.id"
 custom_domain = true
 [[routes]]
 pattern = "cf.shopee.co.id.Indonesia.vnm.my.id"
